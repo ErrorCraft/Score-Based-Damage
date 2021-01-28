@@ -1,2 +1,2 @@
 scoreboard players remove @s custom_damage 32
-attribute @s generic.max_health modifier add eccd-0-0-0-5 custom -32 add
+attribute @s generic.max_health modifier add 8b138417-eccd-429b-a080-4beb98b7aa35 custom -32 add

@@ -2,14 +2,14 @@
 tag @s remove custom_damage.applied_damage
 
 # Attributes
-attribute @s generic.max_health modifier remove eccd-0-0-0-0
-attribute @s generic.max_health modifier remove eccd-0-0-0-1
-attribute @s generic.max_health modifier remove eccd-0-0-0-2
-attribute @s generic.max_health modifier remove eccd-0-0-0-3
-attribute @s generic.max_health modifier remove eccd-0-0-0-4
-attribute @s generic.max_health modifier remove eccd-0-0-0-5
-attribute @s generic.max_health modifier remove eccd-0-0-0-6
-attribute @s generic.max_health modifier remove eccd-0-0-0-7
-attribute @s generic.max_health modifier remove eccd-0-0-0-8
-attribute @s generic.max_health modifier remove eccd-0-0-0-9
-attribute @s generic.max_health modifier remove eccd-0-0-0-a
+attribute @s generic.max_health modifier remove 8b138417-eccd-429b-a080-4beb98b7aa30
+attribute @s generic.max_health modifier remove 8b138417-eccd-429b-a080-4beb98b7aa31
+attribute @s generic.max_health modifier remove 8b138417-eccd-429b-a080-4beb98b7aa32
+attribute @s generic.max_health modifier remove 8b138417-eccd-429b-a080-4beb98b7aa33
+attribute @s generic.max_health modifier remove 8b138417-eccd-429b-a080-4beb98b7aa34
+attribute @s generic.max_health modifier remove 8b138417-eccd-429b-a080-4beb98b7aa35
+attribute @s generic.max_health modifier remove 8b138417-eccd-429b-a080-4beb98b7aa36
+attribute @s generic.max_health modifier remove 8b138417-eccd-429b-a080-4beb98b7aa37
+attribute @s generic.max_health modifier remove 8b138417-eccd-429b-a080-4beb98b7aa38
+attribute @s generic.max_health modifier remove 8b138417-eccd-429b-a080-4beb98b7aa39
+attribute @s generic.max_health modifier remove 8b138417-eccd-429b-a080-4beb98b7aa3a
