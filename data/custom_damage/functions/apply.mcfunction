@@ -1,5 +1,5 @@
 # Calculate health modifier
-function custom_damage:calculate/health_modifier
+function custom_damage:health/calculate_modifier
 
 # Death
 execute if score @s custom_damage >= #maximum_health custom_damage run function #custom_damage:death
