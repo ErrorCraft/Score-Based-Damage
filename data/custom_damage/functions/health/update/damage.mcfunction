@@ -1,5 +1,5 @@
 # Simulate effect
-effect give @s instant_damage 1 30 true
+execute if score #type custom_damage matches 0 run effect give @s instant_damage 1 30 true
 
 # Give attributes
 function custom_damage:attributes/give
