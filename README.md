@@ -1,5 +1,7 @@
 # Score-Based Damage
 
+There is a bug that instantly kills if you take damage from a different source (for example from another entity) after you applied damage. This is unfortunately on Mojang's end, and they won't fix it, since higher effect amplifiers aren't supported. I'm still looking for a way to fix or circumvent this. See [these](https://bugs.mojang.com/browse/MC-170768) [two](https://bugs.mojang.com/browse/MC-10755) bug reports for a bit more information about it.
+
 ### [Download here](https://github.com/ErrorCraft/Score-Based-Damage/releases)
 
 This is a data pack that allows you to damage and heal players based on a score! I want players to be able to modify player health more easily, because the `instant_damage` and `instant_health` effects are not useful at all. It modifies your maximum health using the `attribute` command, and so it keeps fractional health as well! For example, if your health was `19.877` and your score was set to `2`, your new health would be `17.877`!
