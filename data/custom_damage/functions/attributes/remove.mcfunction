@@ -1,7 +1,4 @@
-# Tag
 tag @s remove custom_damage.applied_damage
-
-# Attributes
 attribute @s generic.max_health modifier remove 8b138417-eccd-429b-a080-4beb98b7aa30
 attribute @s generic.max_health modifier remove 8b138417-eccd-429b-a080-4beb98b7aa31
 attribute @s generic.max_health modifier remove 8b138417-eccd-429b-a080-4beb98b7aa32

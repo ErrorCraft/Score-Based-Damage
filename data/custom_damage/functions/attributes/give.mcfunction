@@ -1,7 +1,4 @@
-# Tag
 tag @s add custom_damage.applied_damage
-
-# Attributes
 execute if score @s custom_damage matches 1024.. run function custom_damage:attributes/1024
 execute if score @s custom_damage matches 512.. run function custom_damage:attributes/512
 execute if score @s custom_damage matches 256.. run function custom_damage:attributes/256
