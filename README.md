@@ -1,6 +1,6 @@
 # Score-Based Damage
 
-There is a bug that instantly kills if you take damage from a different source (for example from another entity) after you applied damage. This is unfortunately on Mojang's end, and they won't fix it, since higher effect amplifiers aren't supported. I'm still looking for a way to fix or circumvent this. See [these](https://bugs.mojang.com/browse/MC-170768) [two](https://bugs.mojang.com/browse/MC-10755) bug reports for a bit more information about it.
+Because [MC-19690](https://bugs.mojang.com/browse/MC-19690) was fixed, I was able to use a different method of applying damage without getting the fake death. This means that the bug that instantly killed you if you took damage from a different source after you applied damage is no longer present in the data pack as of version `1.4.0`.
 
 ### [Download here](https://github.com/ErrorCraft/Score-Based-Damage/releases)
 
