@@ -1,7 +1,5 @@
 scoreboard objectives add custom_damage dummy
 
-say reloaded
-
 # some constants
 scoreboard players set #4 custom_damage 4
 scoreboard players set #5 custom_damage 5
